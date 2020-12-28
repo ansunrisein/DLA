@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9059f9f9-fede-4cb6-85aa-014bdfd38be8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/DLA.js" beforeDir="false" afterPath="$PROJECT_DIR$/core/DLA.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Defaults.js" beforeDir="false" afterPath="$PROJECT_DIR$/core/Defaults.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/SVGLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/directionalBias.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/directionalBias.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/DLA.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Defaults.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/SVGLoader.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/World.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/global.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/module-DLA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/module-Defaults.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/module-SVGLoader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/module-World.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/module.exports.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/linenumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/lang-css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/styles/jsdoc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/styles/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/01-basic-dla/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/01-basic-dla/images/basic-dla-with-color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/01-basic-dla/images/line-rendering-mode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/01-basic-dla/images/social-media-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/01-basic-dla/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/01-basic-dla/js/entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/02-directional-bias/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/02-directional-bias/images/center.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/02-directional-bias/images/edges.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/02-directional-bias/images/equator.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/02-directional-bias/images/equator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/02-directional-bias/images/social-media-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/02-directional-bias/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/02-directional-bias/js/entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/03-different-sizes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/03-different-sizes/images/different-sizes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/03-different-sizes/images/social-media-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/03-different-sizes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/03-different-sizes/js/Settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/03-different-sizes/js/entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/04-different-shapes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/04-different-shapes/images/pentagons.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/04-different-shapes/images/social-media-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/04-different-shapes/images/squares.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/04-different-shapes/images/triangles.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/04-different-shapes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/04-different-shapes/js/Settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/04-different-shapes/js/entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/images/complex-polygons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/images/compound-polygon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/images/social-media-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/images/text.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/js/Settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/js/entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/svg/dla.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/svg/polygons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/05-svg-input/svg/supershape.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/06-interactivity/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/06-interactivity/images/social-media-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/06-interactivity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/06-interactivity/js/Player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/06-interactivity/js/entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/06-interactivity/svg/dla.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/07-flowfields/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/07-flowfields/images/social-media-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/07-flowfields/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/07-flowfields/js/Settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/07-flowfields/js/entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mEu61oRVgR8tbz0uHIG7sobEHe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anton\Desktop\pr" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9059f9f9-fede-4cb6-85aa-014bdfd38be8" name="Default Changelist" comment="" />
+      <created>1609070892379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609070892379</updated>
+      <workItem from="1609070894326" duration="10322000" />
+      <workItem from="1609091871508" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
